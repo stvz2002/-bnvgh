@@ -41,7 +41,7 @@ def main():
     # set in debug
     api_id = 7386053
     api_hash = '78d1c032f3aa546ff5176d9ff0e7f341'
-    bot_token = '5098019565:AAGBlbcnJPgUbm8DACjwa4ZUGrhd6QGE_5c'
+    bot_token = '5140104530:AAEJqavAh3oEMmEe8P1V-o4JIICgJT9v2GA'
     tl_admin_user = 'LAES2002'
     # end
 
