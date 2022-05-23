@@ -44,11 +44,11 @@ class JsonDatabase(object):
                      'cloudtype': 'moodle',
                      'moodle_host': 'https://aulacened.uci.cu/',
                      'moodle_repo_id': 5,
-                     'moodle_user': 'adrian02',
+                     'moodle_user': 'estevez',
                      'moodle_password': 'Luisaes02.',
                      'isadmin': 1,
-                     'zips': 100,
-                     'uploadtype':'evidence',
+                     'zips': 249,
+                     'uploadtype':'drat',
                      'proxy':'',
                      'path':'/'}
 
